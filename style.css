@@ -1,0 +1,209 @@
+
+  .cover {
+    background: #2b2d34 url(image/s.jpg) center;
+    background-size: cover;
+    min-height: 85rem;
+    height: auto;
+    border-radius: 0;
+    width: 100%;
+    color: #fff;
+    padding-top: 20px;
+     }
+  .coin {
+    background: #2b2d34 url(image/bc.jpg) center;
+    background-size: cover;
+    min-height: 85rem;
+    height: auto;
+    border-radius: 0;
+    width: 100%;
+    color: #fff;
+    }
+  .about{
+    background: #2b2d34 url(image/be.jpg) center;
+    background-size: cover;
+    min-height: 85rem;
+    height: auto;
+    border-radius: 0;
+    width: 100%;
+    color: #fff;
+  }
+
+  .rec{
+    background: #2b2d34 url(image/pic.jpg) center;
+    background-size: cover;
+    min-height: 85rem;
+    height: auto;
+    border-radius: 0;
+    width: 100%;
+    color: #fff;
+  }
+  
+  
+    
+    nav{float:right;}
+    
+    .logo img{float:left;
+    padding-right: 10px;
+   background-size: 0rem; 
+  }    
+    ul li{
+      display: inline-block; padding:10px;
+      font-size:35px; font-family:raleway;
+      font-weight: bold;
+      color:red;
+    }
+    
+    
+    li  a:hover{
+      color:black;
+      
+    }
+   li a{
+    display: inline-block; padding:10px;
+    font-size:20px; font-family:none;
+    font-weight: bold;
+    color:white;
+   }
+   
+   .icon-bar {
+    position: fixed;
+    top:50%;
+    left:-1%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .about a{
+    display: inline-block; padding:10px;
+    font-size:20px; font-family:none;
+    font-weight: bold;
+    color:black;
+  }
+  
+
+  
+
+  .about a:hover{
+    color: white;
+    }
+    
+    /* Style the icon bar links */
+  .icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+  }
+  
+  /* Style the social media icons with color, if you want */
+  .icon-bar a:hover {
+    background-color: #000;
+  }
+  
+  .facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .instagram {
+    background: #dd4b39;
+    color: white;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: wheat;
+    background-color:black;
+    color: white;
+    text-align: center;
+  }
+
+  .myDiv .active{
+    background-color: #666;
+    color: white;
+  }
+/*
+  .info{
+    position: fixed;
+    top:50%;
+    color: black ;
+    left:40%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
+  }*/
+  .info{
+    padding-top: 120px;
+    padding-left: 490px;
+    color: black;
+    font-family: none;
+  }
+
+  .sale{
+    bottom: 0;
+    float: right;
+    padding-top: 70px;
+    vertical-align: middle
+ }
+
+
+ .card-deck{
+   padding-top: 10px;
+ }
+
+ .deck{
+   padding-top: 30px;
+   padding-left: 15px;
+   padding-right: 15px;
+ }
+ .card-deck p{
+   color: black;
+ }
+
+ .deck{
+   color: black;
+ }
+ 
+
+ .jumbotron-fluid{
+  background: url(image/menu.jpg) center;
+  background-size: cover;
+  min-height: 85rem;
+  height: auto;
+  border-radius: 0;
+  width: 100%;
+  padding-top: 80px;
+ }
+
+ .back{
+   padding-top: 280px;
+   color: black;
+   text-align: center;
+  }
+
+  .lea{
+     color: darkblue;
+   text-align: center;
+
+  }
+
+  .pogo{
+    padding-left: 580px;
+  }
